@@ -14,7 +14,9 @@ if (x !== 3) {
 if (x === 3) {
   console.log(y);
 }
-
+undefind
+5
+5
 
 // 2.
 var x = 3;
@@ -23,4 +25,4 @@ if (x === 3) {
   console.log(x);
 }
 console.log(x);
-
+2 2
